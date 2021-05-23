@@ -1,0 +1,289 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "categoryId": 3,
+      "productName": "Veri Yönetim İşlemleri",
+      "quantityPerUnit": "48 - 6 oz jars",
+      "unitPrice": "24",
+      "unitsInStock": 53
+    },
+    {
+      "id": 2,
+      "categoryId": 2,
+      "productName": "Veri Yükle",
+      "quantityPerUnit": "24 - 12 oz bottles",
+      "unitPrice": "21",
+      "unitsInStock": 17
+    },
+    {
+      "id": 3,
+      "categoryId": 2,
+      "productName": "Veri Temizleme",
+      "quantityPerUnit": "24 - 12 oz bottles",
+      "unitPrice": "21",
+      "unitsInStock": 17
+    },
+    {
+      "id": 4,
+      "categoryId": 2,
+      "productName": "Veri Normalleştirme",
+      "quantityPerUnit": "48 - 6 oz jars",
+      "unitPrice": "222",
+      "unitsInStock": 53
+    },
+   
+    
+    {
+      "id": 7,
+      "categoryId": 8,
+      "productName": "Sonuç ve Analiz Dökümanları",
+      "quantityPerUnit": "12 - 1 lb pkgs.",
+      "unitPrice": 30,
+      "unitsInStock": 15
+    },
+   
+    {
+      "id": 9,
+      "categoryId": 7,
+      "productName": "ID3 ",
+      "quantityPerUnit": "18 - 500 g pkgs.",
+      "unitPrice": 97,
+      "unitsInStock": 29
+    },
+    
+   
+    
+    
+   
+    
+
+    {
+      "id": 17,
+      "categoryId": 7,
+      "productName": "K-Means",
+      "quantityPerUnit": "20 - 1 kg tins",
+      "unitPrice": 39,
+      "unitsInStock": 0
+    },
+    
+    {
+      "id": 19,
+      "categoryId": 4,
+      "productName": "Açıklayıcı Analiz",
+      "quantityPerUnit": "10 boxes x 12 pieces",
+      "unitPrice": 9.2,
+      "unitsInStock": 25
+    },
+    {
+      "id": 20,
+      "categoryId": 4,
+      "productName": "Çıkarımsal Analiz",
+      "quantityPerUnit": "30 gift boxes",
+      "unitPrice": 81,
+      "unitsInStock": 40
+    },
+    {
+      "id": 21,
+      "categoryId": 4,
+      "productName": "Farklılıkların Analizi",
+      "quantityPerUnit": "24 pkgs. x 4 pieces",
+      "unitPrice": 10,
+      "unitsInStock": 3
+    },
+    {
+      "id": 22,
+      "categoryId": 6,
+      "productName": "Veri İnceleme Metodları",
+      "quantityPerUnit": "24 - 500 g pkgs.",
+      "unitPrice": 21,
+      "unitsInStock": 104
+    },
+  
+    {
+      "id": 24,
+      "categoryId": 2,
+      "productName": "Veri Dönüşümü",
+      "quantityPerUnit": "12 - 355 ml cans",
+      "unitPrice": 4.5,
+      "unitsInStock": 20
+    },
+    {
+      "id": 25,
+      "categoryId": 4,
+      "productName": "İlişki Analizi",
+      "quantityPerUnit": "20 - 450 g glasses",
+      "unitPrice": 14,
+      "unitsInStock": 76
+    },
+    {
+      "id": 26,
+      "categoryId": 4,
+      "productName": "Tahmin Analizi",
+      "quantityPerUnit": "100 - 250 g bags",
+      "unitPrice": 31.23,
+      "unitsInStock": 15
+    },
+    
+    
+    {
+      "id": 29,
+      "categoryId": 7,
+      "productName": "CNN",
+      "quantityPerUnit": "50 bags x 30 sausgs.",
+      "unitPrice": 123.79,
+      "unitsInStock": 0
+    },
+  
+    {
+      "id": 39,
+      "categoryId": 7,
+      "productName": "KNN",
+      "quantityPerUnit": "50 bags x 30 sausgs.",
+      "unitPrice": 123.79,
+      "unitsInStock": 0
+    },
+
+    {
+      "id": 32,
+      "categoryId": 5,
+      "productName": "Chi Kare",
+      "quantityPerUnit": "24 - 200 g pkgs.",
+      "unitPrice": 32,
+      "unitsInStock": 9
+    },
+    {
+      "id": 33,
+      "categoryId": 5,
+      "productName": "Bilgi Kazanımı",
+      "quantityPerUnit": "500 g",
+      "unitPrice": 2.5,
+      "unitsInStock": 112
+    },
+    {
+      "id": 34,
+      "categoryId": 2,
+      "productName": "Eksik Değerler İfadesi",
+      "quantityPerUnit": "24 - 12 oz bottles",
+      "unitPrice": 14,
+      "unitsInStock": 111
+    },
+    {
+      "id": 35,
+      "categoryId": 2,
+      "productName": "Gürültülü Veri Tanımlama",
+      "quantityPerUnit": "24 - 12 oz bottles",
+      "unitPrice": 18,
+      "unitsInStock": 20
+    },
+    {
+      "id": 36,
+      "categoryId": 1,
+      "productName": "Proje Ekle",
+      "quantityPerUnit": "12 - 75 cl bottles",
+      "unitPrice": 263.5,
+      "unitsInStock": 17
+    },
+
+    {
+      "id": 38,
+      "categoryId": 2,
+      "productName": "Veri Entegrasyonu",
+      "quantityPerUnit": "12 - 75 cl bottles",
+      "unitPrice": 263.5,
+      "unitsInStock": 17
+    },
+   
+ 
+    
+    
+ 
+
+
+    
+   
+ 
+    
+    
+
+    
+
+ 
+
+   
+    {
+      "id": 59,
+      "categoryId": 5,
+      "productName": "Kazanım Oranı",
+      "quantityPerUnit": "5 kg pkg.",
+      "unitPrice": 55,
+      "unitsInStock": 79
+    },
+    {
+      "id": 60,
+      "categoryId": 5,
+      "productName": "Gini İndeksi",
+      "quantityPerUnit": "15 - 300 g rounds",
+      "unitPrice": 34,
+      "unitsInStock": 19
+    }
+ 
+  
+ 
+   
+   
+   
+  
+  
+    
+    
+   
+  
+    
+  
+
+ 
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Projeler",
+      "seoUrl": "beverages"
+    },
+    {
+      "id": 2,
+      "categoryName": "Veri Önişlemler",
+      "seoUrl": "beverages"
+    },
+    {
+      "id": 3,
+      "categoryName": "Veri Yönetim",
+      "seoUrl": "condiments"
+    },
+    {
+      "id": 4,
+      "categoryName": "Veri İstatiksel Analiz",
+      "seoUrl": "confections"
+    },
+    {
+      "id": 5,
+      "categoryName": "Eğitim Seti Tanımlama",
+      "seoUrl": "dairy-products"
+    },
+    {
+      "id": 6,
+      "categoryName": "Veri İnceleme",
+      "seoUrl": "grains-cereals"
+    },
+    {
+      "id": 7,
+      "categoryName": "Model Geliştirme",
+      "seoUrl": "meat-poultry"
+    },
+    {
+      "id": 8,
+      "categoryName": "Sonuç/Analiz",
+      "seoUrl": "produce"
+    }
+  ]
+}
